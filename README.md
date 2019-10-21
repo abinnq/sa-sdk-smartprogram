@@ -15,3 +15,8 @@
 使用:
     
     var sa = require('sa-sdk-smartprogram');
+
+新增方法:
+
+    sa.setServerUrl(server_url: string)
+
