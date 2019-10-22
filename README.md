@@ -1,7 +1,7 @@
 # sa-sdk-smartprogram
+## 神策官方百度小程序 SDK
 
 神策官方百度小程序 SDK
-
 
 
 说明: 仅将官方 sdk 发布到 npm，支持 CommonJS，便于 webpack 直接使用

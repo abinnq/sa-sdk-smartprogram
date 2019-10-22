@@ -1,11 +1,17 @@
 
 {
   "name": "sa-sdk-smartprogram",
-  "version": "0.4.0-test",
+  "version": "0.4.0-rc",
   "description": "神策百度小程序SDK",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/abinnq/sa-sdk-smartprogram.git"
-  }
+  },
+  "keywords": [
+    "sensorsdata",
+    "smartprogram",
+    "sdk",
+    "百度小程序"
+  ]
 }
